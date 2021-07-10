@@ -2,4 +2,4 @@
 News clustring algorithm that groups articles based on events.
 
 ## References:
-https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.593.394&rep=rep1&type=pdf
+https://www.researchgate.net/publication/258028563_Incremental_Clustering_of_News_Reports
